@@ -27,9 +27,8 @@
 </div>
 <div align="center">
   <span style="display:inline;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DarkPhoenix2704"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkPhoenix2704"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix2704"/>
+    My Languages
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix2704"/>
   </span>
 </div>
 
