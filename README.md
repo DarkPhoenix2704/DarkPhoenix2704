@@ -25,11 +25,17 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </div>
-<div align="center">
-  <span style="display:inline;">
-    My Languages
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix2704"/>
-  </span>
-</div>
+<br>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix2704" />
+<p align="center">
+  <h3> My Favourite Languages</h3>
+  <ul>
+    <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></li>
+    <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></li>
+  </ul>
+</p>
+
 
 
