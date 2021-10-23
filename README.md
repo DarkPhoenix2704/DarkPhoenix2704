@@ -36,7 +36,7 @@
     <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></li>
   </ul>
 </p>
-<br><br>
+<br><br><br>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DarkPhoenix2704&count_private=true&show_icons=true&include_all_commits" />
 <p align="center">
