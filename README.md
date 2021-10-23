@@ -41,10 +41,10 @@
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DarkPhoenix2704&count_private=true&show_icons=true&include_all_commits" />
 <p align="center">
   <h3 align="center">My Projects</h3>
-  <ul align="center" style="list-style: none">
-    <li><img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=Discowin-reimagined&color=orange&logo=github"/></li>
-    <li><img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=csi-icet&color=green&logo=github"/></li>
-  </ul>
+  <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=Discowin-reimagined&color=orange&logo=github"/>  
+  <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=csi-icet&color=green&logo=github"/>  
+  <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=darkphoenix2704.github.io&color=brightgreen&logo=github"/>  
+  <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=Saturday_Hack_Night-Telegram&color=critical&logo=github"/>
 </p>
 
 
