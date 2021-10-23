@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=Saturday_Hack_Night-Telegram&color=critical&logo=github"/>
 </p>
 <br><br>
-<img align="right" height="300px" width="450px" alt="GIF" src="images/desktop.png" />
+<img align="right" height="300px" width="450px" alt="GIF" src="desktop.png" />
 <p align="center">
   <h3> My Machine</h3>
   <ul>
