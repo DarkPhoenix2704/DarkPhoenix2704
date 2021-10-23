@@ -46,6 +46,18 @@
   <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=darkphoenix2704.github.io&color=brightgreen&logo=github"/>  
   <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=Saturday_Hack_Night-Telegram&color=critical&logo=github"/>
 </p>
-
+<br><br>
+<img align="right" height="270px" width="450px" alt="GIF" src="desktop.png" />
+<p align="center">
+  <h3> My Machine</h3>
+  <ul>
+    <li>OS: Windows 11 + WSL2 </li>
+    <li>Processor: i3 4th Gen</li>
+    <li>Browser: Edge Chromium Browser</li>
+    <li>Terminal: Windows Terminal</li>![desktop](https://user-images.githubusercontent.com/64391274/138561464-2c3aa6cd-b0b2-4341-bdb9-1e731ca7194a.png)
+    <li>Code Editor: Jetbrains IDE</li>
+  </ul>
+</p>
+<br><br><br>
 
 
