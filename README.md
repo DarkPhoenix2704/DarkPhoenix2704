@@ -25,4 +25,12 @@
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </div>
-<hl>
+<div align="center">
+  <span style="display:inline;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DarkPhoenix2704"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarkPhoenix2704"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix2704"/>
+  </span>
+</div>
+
+
