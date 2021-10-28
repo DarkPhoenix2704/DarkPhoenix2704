@@ -27,8 +27,10 @@
 </div>
 <br>
 <img align="right" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix2704" />
+
+
 <p align="center">
-  <h3> My Favourite Languages</h3>
+  <h3 align="center"> My Favourite Languages</h3>
   <ul>
     <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></li>
     <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></li>
@@ -36,7 +38,7 @@
     <li><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></li>
   </ul>
 </p>
-<br><br><br>
+<br>
 
 <img align="left" height="270px" width="450px" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=DarkPhoenix2704&count_private=true&show_icons=true&include_all_commits" />
 <p align="center">
@@ -49,7 +51,7 @@
 <br><br>
 <img align="right" height="300px" width="450px" alt="GIF" src="desktop.png" />
 <p align="center">
-  <h3> My Machine</h3>
+  <h3 align="center"> My Machine</h3>
   <ul>
     <li>OS: Windows 11 + WSL2 </li>
     <li>Processor: i3 4th Gen</li>
