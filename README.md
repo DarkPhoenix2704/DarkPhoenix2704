@@ -49,17 +49,5 @@
   <img src="https://img.shields.io/static/v1?label=DarkPhoenix2704&message=Saturday_Hack_Night-Telegram&color=critical&logo=github"/>
 </p>
 <br><br>
-<img align="right" height="300px" width="450px" alt="GIF" src="desktop.png" />
-<p align="center">
-  <h3 align="center"> My Machine</h3>
-  <ul>
-    <li>OS: Windows 11 + WSL2 </li>
-    <li>Processor: i3 4th Gen</li>
-    <li>Browser: Edge Chromium Browser</li>
-    <li>Terminal: Windows Terminal</li>
-    <li>Code Editor: Jetbrains IDE</li>
-  </ul>
-</p>
-<br><br><br><br>
 <h2 align="center"></h2>
 <h3 align="center">Love You ❣️</h3>
