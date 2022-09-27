@@ -1,0 +1,25 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, I'm Anbarasu. </span> </h1>
+
+
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student+Developer+and+Engineer;" height="40"/>
+
+<div>
+<a href="mailto: hi@anbarasu.me">
+<img src="https://img.shields.io/badge/-hi%40anbarasu.me-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/DarkPhoenix2704/">   <img src="https://img.shields.io/badge/@darkphoenix2704_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/anbarasu-n/"><img src="https://img.shields.io/badge/Anbarasu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</div>
+
+### Current Status : 📡
+
+- 💼 I’ve currently pursuing BTech in <strong>Computer Science & Engineering</strong>.
+- 🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong>
+- 🤔 My career interests are with <strong>UI Design & Web Development</strong>
+- 🔍 I’m looking for career opportunities in the <strong>Startups</strong>
+
+### Tools I work upon : 🛠
+<img src="https://img.shields.io/badge/TypeScript%20-%23E00033.svg?&style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React%20-%2314354C.svg?&style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/NestJS%20-%2300599C.svg?&style=for-the-badge&logo=NestJS&logoColor=white"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/firebase%20-%23777BB4.svg?&style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+
+### Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkPhoenix2704&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
+
+### My Contributions : :cyclone:
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DarkPhoenix2704&theme=dracula&color=B994E6&bg_color=2B2D3D" /> 
