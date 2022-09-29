@@ -10,7 +10,7 @@
 
 ### Current Status : 📡
 
-- 💼 I’ve currently pursuing BTech in <strong>Computer Science & Engineering</strong>.
+- 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
 - 🌱 I’m currently learning <strong>React</strong> and <strong>TypeScript</strong>
 - 🤔 My career interests are with <strong>UI Design & Web Development</strong>
 - 🔍 I’m looking for career opportunities in the <strong>Startups</strong>
