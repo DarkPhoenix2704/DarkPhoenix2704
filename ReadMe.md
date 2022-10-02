@@ -25,3 +25,5 @@
 
 ### My Contributions : :cyclone:
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DarkPhoenix2704&theme=dracula&color=B994E6&bg_color=2B2D3D" /> 
+
+![](https://hit.yhype.me/github/profile?user_id=64391274)
