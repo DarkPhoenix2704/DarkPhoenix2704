@@ -23,7 +23,4 @@
 ### Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkPhoenix2704&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
 
-### My Contributions : :cyclone:
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=DarkPhoenix2704&theme=dracula&color=B994E6&bg_color=2B2D3D" /> 
-
 ![](https://hit.yhype.me/github/profile?user_id=64391274)
