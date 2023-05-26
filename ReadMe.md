@@ -14,7 +14,7 @@
 
 - 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
 - 🌱 I’m currently learning <strong>UI Libraries</strong> and <strong>TypeScript</strong>
-- 🤔 My career interests are with <strong>UI Design & Web Development & Backend</strong>
+- 🤔 My career interests are with <strong>UI Design & Web Development & BackEnd Development</strong>
 - 🔍 I’m looking for career opportunities in the <strong>Startups</strong>
 
 ### Tools I work upon : 🛠
