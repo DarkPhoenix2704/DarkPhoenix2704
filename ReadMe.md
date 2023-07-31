@@ -11,7 +11,7 @@
 </div>
 
 ### Current Status : 📡
-
+- 🐶 പട്ടിപണി @ വാട്ടർ മെട്രോ
 - 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
 - 🌱 I’m currently learning <strong>UI Libraries</strong> and <strong>TypeScript</strong>
 - 🤔 My career interests are with <strong>UI Design & Web Development & BackEnd Development</strong>
