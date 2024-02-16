@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, I'm Anbarasu. </span> </h1>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Student+Developer+and+Engineer;" height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Engineer;" height="40"/>
 
 <div>
 <a href="mailto:anbarasun123@gmail.com">
