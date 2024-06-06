@@ -11,7 +11,7 @@
 </div>
 
 ### Current Status : 📡
-- 💼 Currently I'm pursuing BTech in <strong>Computer Science & Engineering</strong>.
+- 💼 Currently I'm completed my BTech in <strong>Computer Science & Engineering</strong>.
 - 🤔 My career interests are with <strong>Fullstack Development</strong>
 
 ### Tools I work upon : 🛠
