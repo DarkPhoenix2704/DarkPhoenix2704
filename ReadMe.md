@@ -5,7 +5,7 @@
 
 <div>
 <a href="mailto:anbarasun123@gmail.com">
-<img src="https://img.shields.io/badge/-anbarasun123%40gmail.com-7B83EB?&style=for-the-badge&logo=Gmail&logoColor=white" ></a>  <a  href="https://www.instagram.com/DarkPhoenix2704/">   <img src="https://img.shields.io/badge/@darkphoenix2704_-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/anbarasu-n/"><img src="https://img.shields.io/badge/Anbarasu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+ <a href="https://www.linkedin.com/in/anbarasu-n/"><img src="https://img.shields.io/badge/Anbarasu-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 <img src="https://komarev.com/ghpvc/?username=DarkPhoenix2704&color=brightgreen&style=for-the-badge" > </img>
 
 </div>
